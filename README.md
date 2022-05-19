@@ -1,0 +1,2 @@
+# tipoNumeroArreglo
+Created with CodeSandbox
